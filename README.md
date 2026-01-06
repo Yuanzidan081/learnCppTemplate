@@ -5,4 +5,4 @@
   + [x] 2.4: Int type can be template parameter
 
 # Reference
-1. https://github.com/wuye9036/CppTemplateTutorial
+1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
