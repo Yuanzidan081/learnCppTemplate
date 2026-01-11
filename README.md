@@ -7,6 +7,10 @@
   + ch3
     + [x] ch3.2: Partial Specialization
     + [x] ch3.3: Name Lookup and Typename for typeDef
-
+  + ch4
+    + [x] ch4.1.1: Partial Specialization 2
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+
+# Useful Tools
+1. [Compiler Explorer Online](https://gcc.godbolt.org/)
