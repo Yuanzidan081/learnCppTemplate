@@ -9,6 +9,7 @@
     + [x] ch3.3: Name Lookup and Typename for typeDef
   + ch4
     + [x] ch4.1.1: Partial Specialization 2
+    + [x] ch4.1.2.1: Default Arguments 
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 
