@@ -13,6 +13,8 @@
     + [x] ch4.1.2.2: Default Arguments 2
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+2. TODO：[Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
+3. TODO: STL源码剖析
 
 # Useful Tools
 1. [Compiler Explorer Online](https://gcc.godbolt.org/)
