@@ -10,6 +10,7 @@
   + ch4
     + [x] ch4.1.1: Partial Specialization 2
     + [x] ch4.1.2.1: Default Arguments 
+    + [x] ch4.1.2.2: Default Arguments 2
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 
