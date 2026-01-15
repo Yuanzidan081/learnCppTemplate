@@ -13,6 +13,9 @@
     + [x] ch4.1.2.2: Default Arguments 2
     + [x] ch4.2: SFINAE
     + [x] ch4.3: concept in template 
++ Cpp-Templates-2nd
+  + ch1
+    + [x] ch1.2: Type Deduce
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. TODO：[Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
