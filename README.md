@@ -19,6 +19,7 @@
     + [x] ch1.3: Multiple Template Parameters
     + [x] ch1.4: Default Template Parameters
     + [x] ch1.5: Function Template Overloading 
+    + [x] ch1.6: Constexpr in Template
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
