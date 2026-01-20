@@ -16,10 +16,11 @@
 + Cpp-Templates-2nd
   + ch1
     + [x] ch1.2: Type Deduce
-    + [x] ch1.3: Multi-template Parameters
+    + [x] ch1.3: Multiple Template Parameters
+    + [x] ch1.4: Default Template Parameters
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-2. TODO：[Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
+2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
 3. TODO: STL源码剖析
 
 # Useful Tools
