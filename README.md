@@ -26,6 +26,7 @@
     + [x] ch2.3: Use Class Template Partially
     + [x] ch2.4: Friend Function in Template
     + [x] ch2.5: Class template specialization
+    + [x] ch2.6: Partial class template specialization
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
