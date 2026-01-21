@@ -24,6 +24,7 @@
     + [x] ch2.1: Class Template
     + [x] ch2.2: Use Class Template
     + [x] ch2.3: Use Class Template Partially
+    + [x] ch2.4: Friend Function in Template
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
