@@ -16,8 +16,8 @@
 + Cpp-Templates-2nd
   + ch1
     + [x] ch1.2: Type Deduce
-    + [x] ch1.3: Multiple Template Parameters
-    + [x] ch1.4: Default Template Parameters
+    + [x] ch1.3: Multiple Template Arguments
+    + [x] ch1.4: Default Template Arguments
     + [x] ch1.5: Function Template Overloading 
     + [x] ch1.6: Constexpr in Template
   + ch2
@@ -27,7 +27,8 @@
     + [x] ch2.4: Friend Function in Template
     + [x] ch2.5: Class template specialization
     + [x] ch2.6: Partial class template specialization
-    + [x] ch2.7: Default Arguments for Class Templates 
+    + [x] ch2.7: Default Arguments for Class
+    + [x] ch2.8: Type Alias
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)

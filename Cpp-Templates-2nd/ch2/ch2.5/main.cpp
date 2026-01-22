@@ -2,7 +2,7 @@
 
 int main()
 {
-    // stack3.hpp test
+    // stackSpec.hpp test
     {
         Stack<std::string> ss;
         ss.push("Hello");
