@@ -8,6 +8,7 @@ private:
     std::vector<T> elems; // elements
 public:
     Stack () = default;                         // default constructor
+    Stack(T const& elem) :elems({std::move(elem)}) {} // initializer constructor
     Stack (Stack const&) = default;            // copy constructor
     Stack& operator= (Stack const&) = default; // copy assignment
     void push(T const&);  // push element

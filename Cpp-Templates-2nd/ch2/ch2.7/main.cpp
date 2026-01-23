@@ -5,9 +5,9 @@ int main()
 {
     // stackDefaultParam.hpp test
     {
-        StackDaultParam<int> intStack;
+        StackDefaultParam<int> intStack;
 
-        StackDaultParam<double, std::deque<double>> doubleStack;
+        StackDefaultParam<double, std::deque<double>> doubleStack;
 
         intStack.push(7);
         std::cout << intStack.top() << std::endl;
