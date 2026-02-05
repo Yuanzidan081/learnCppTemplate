@@ -31,6 +31,8 @@
     + [x] ch2.8: Type Alias
     + [x] ch2.9: Class Template Argument Deduction 
     + [x] ch2.10: Template Aggregation
+  + ch3
+    + [x] ch3.1: Class Template Parameter
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
