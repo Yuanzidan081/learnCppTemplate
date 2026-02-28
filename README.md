@@ -35,6 +35,7 @@
     + [x] ch3.1: Class Template Parameter
     + [x] ch3.2: Function Template Parameter
     + [x] ch3.3: Template Parameter Restrictions
+    + [x] ch3.4: Template Parameter Type: auto 
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
