@@ -40,6 +40,7 @@
     + [x] ch4.1: Variadic Template: Introduction
     + [x] ch4.2: Fold Expression 
     + [x] ch4.3: Application 
+    + [x] ch4.4: Class Template and Expression
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
