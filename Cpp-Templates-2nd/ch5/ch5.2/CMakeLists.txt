@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(ch5_1 LANGUAGES CXX)
+project(ch5_2 LANGUAGES CXX)
 
 add_executable(${PROJECT_NAME} main.cpp)
 
