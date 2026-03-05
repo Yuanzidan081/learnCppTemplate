@@ -43,6 +43,7 @@
     + [x] ch4.4: Class Template and Expression
   + ch5
     + [x] ch5.1: Keyword typename
+    + [x] ch5.2: Zero-Value initialization
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
