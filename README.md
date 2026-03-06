@@ -45,6 +45,7 @@
     + [x] ch5.1: Keyword typename
     + [x] ch5.2: Zero-Value initialization
     + [x] ch5.3: Use `this->`
+    + [x] ch5.4: Templates for Raw Arrays and String Literals
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
