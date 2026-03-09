@@ -46,6 +46,7 @@
     + [x] ch5.2: Zero-Value initialization
     + [x] ch5.3: Use `this->`
     + [x] ch5.4: Templates for Raw Arrays and String Literals
+    + [x] ch5.5: Member Template 
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
