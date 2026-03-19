@@ -52,6 +52,7 @@
   + ch6
     + [x] ch6.1: Perfect Forwarding
     + [x] ch6.2: Special Member Function Template
+    + [x] ch6.3: Using enable_if<> to Disable Template
 # Reference
 1. [CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 2. [Cpp-Templates-2nd](https://github.com/xiaoweiChen/Cpp-Templates-2nd)
